@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/",
-      "destination": "/ivrtec-v7.html"
+      "destination": "/index.html"
     }
   ]
 }
