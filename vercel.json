@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/",
+      "destination": "/ivrtec-v7.html"
+    }
+  ]
+}
